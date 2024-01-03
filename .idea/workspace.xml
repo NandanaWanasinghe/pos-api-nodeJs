@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23fef490-d656-4dff-b42c-117ee6f8d69d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Z16rKE5eqbvNn3XQ3tq8BiCb40" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/marn/React/sample-react/react-pos&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="pos-api" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="pos-api" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23fef490-d656-4dff-b42c-117ee6f8d69d" name="Changes" comment="" />
+      <created>1701577446140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701577446140</updated>
+      <workItem from="1701577449817" duration="4092000" />
+      <workItem from="1701586344468" duration="3241000" />
+      <workItem from="1701622981937" duration="7538000" />
+      <workItem from="1701676383966" duration="1212000" />
+      <workItem from="1701707875390" duration="1303000" />
+      <workItem from="1701826123175" duration="1003000" />
+      <workItem from="1702051506319" duration="26000" />
+      <workItem from="1703177978561" duration="624000" />
+      <workItem from="1703209715687" duration="1153000" />
+      <workItem from="1703239574844" duration="6533000" />
+      <workItem from="1703264058087" duration="599000" />
+      <workItem from="1703380039837" duration="4840000" />
+      <workItem from="1703475039424" duration="11773000" />
+      <workItem from="1703524333455" duration="490000" />
+      <workItem from="1703525546861" duration="612000" />
+      <workItem from="1703644831114" duration="26000" />
+      <workItem from="1703817334113" duration="5834000" />
+      <workItem from="1703865444572" duration="6248000" />
+      <workItem from="1703992516419" duration="9287000" />
+      <workItem from="1704033848656" duration="6307000" />
+      <workItem from="1704080938177" duration="8551000" />
+      <workItem from="1704127674618" duration="2521000" />
+      <workItem from="1704162306139" duration="772000" />
+      <workItem from="1704214826586" duration="655000" />
+      <workItem from="1704254247388" duration="476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
