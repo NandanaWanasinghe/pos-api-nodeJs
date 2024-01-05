@@ -21,15 +21,21 @@ const register = (req,resp) => {
                 });
 
                 const transporter= nodemailer.createTransport({
+                    host: "my.smtp.host",
+                    port: 465,
+                    secure: true,
                     service:'gmail',
                     auth:{
-                        user:'testdevstackemail@gmail.com',
-                        pass:'jxdo sqxg szag keuu',
+                        user:'testfullemail9222@gmail.com',
+                        pass:'myhy cchc yxyd uqvh',
+                    },
+                    tls:{
+                        rejectUnauthorized: false,
                     }
                 });
 
                 const mailOption={
-                    from:'testdevstackemail@gmail.com',
+                    from:'testfullemail9222@gmail.com',
                     to:req.body.email,
                     subject:'New Account Creation',
                     text:'You have Created Your Account!'
