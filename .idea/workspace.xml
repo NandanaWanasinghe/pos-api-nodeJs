@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23fef490-d656-4dff-b42c-117ee6f8d69d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="23fef490-d656-4dff-b42c-117ee6f8d69d" name="Changes" comment="init">
       <change beforePath="$PROJECT_DIR$/controller/UserController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/UserController.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +93,14 @@
       <workItem from="1704214826586" duration="655000" />
       <workItem from="1704254247388" duration="476000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1704443808051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704443808051</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>

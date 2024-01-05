@@ -23,13 +23,14 @@ const register = (req,resp) => {
                 const transporter= nodemailer.createTransport({
                     host: "my.smtp.host",
                     port: 465,
-                    secure: true,
+                    secure: true, //use TLS
                     service:'gmail',
                     auth:{
                         user:'testfullemail9222@gmail.com',
                         pass:'myhy cchc yxyd uqvh',
                     },
                     tls:{
+                        // do not fail on invalid certs
                         rejectUnauthorized: false,
                     }
                 });
